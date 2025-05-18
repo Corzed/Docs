@@ -1,1 +1,27 @@
-
+{
+  "type": "directory",
+  "name": "",
+  "path": "",
+  "children": {
+    "Model Context Protocol": {
+      "type": "directory",
+      "name": "Model Context Protocol",
+      "path": "Model Context Protocol",
+      "children": {
+        "Get Started": {
+          "type": "directory",
+          "name": "Get Started",
+          "path": "Model Context Protocol/Get Started",
+          "children": {
+            "introduction.md": {
+              "type": "file",
+              "name": "introduction.md",
+              "path": "Model Context Protocol/Get Started/introduction.md",
+              "title": "Introduction"
+            }
+          }
+        }
+      }
+    }
+  }
+}
