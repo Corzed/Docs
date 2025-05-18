@@ -14,7 +14,7 @@ The "Docs" repository centralizes widely used documentation from various program
 ### MCP Server
 Download our MCP server to give your ai access to the docs:
 
-[Link][https://github.com/Corzed/DocsMCP]
+https://github.com/Corzed/DocsMCP
 
 ### For Developers and Contributors
 
