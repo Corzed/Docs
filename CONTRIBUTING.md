@@ -49,29 +49,6 @@ languages/
             └── asyncio.md
 ```
 
-## Site Structure Index File
-When adding new content, you must also update the `_site_structure.json` file to ensure your content appears in directory listings and navigation. This file serves as a complete map of all documentation in the repository.
-
-### Index File Format
-The `_site_structure.json` file follows this structure:
-
-```json
-{
-  "type": "directory",
-  "name": "directory_name",
-  "path": "path/to/directory",
-  "children": {
-    "child_name": {
-      "type": "directory|file",
-      "name": "child_name",
-      "path": "path/to/child",
-      "title": "Human-readable title",
-      "children": { ... } // Only for directories
-    }
-  }
-}
-```
-
 ## Review Process
 
 1. **Peer Review**: Review by at least one other contributor
